@@ -1,15 +1,15 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/thatcybersecuritydude">Programmer</a>, <a href="https://www.linkedin.com/in/thatcybersecuritydude/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/thatcybersecuritydude/LABURL)
+  - [Vulnerability Management Lab](https://github.com/thatcybersecuritydude/vulnerability-management-lab-)
 
 
 
 <h2>📺 Videos</h2>
 
-  - [Tutorial: Active Directory Home Lab](https://github.com/thatcybersecuritydude/LABURL)
+  - [Tutorial: Vulnerability Management Lab](https://github.com/thatcybersecuritydude/LABURL)
 
 
 <h2>🗒️Certifications </h2>
@@ -27,9 +27,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/thatcybersecuritydude
 
 <!--
