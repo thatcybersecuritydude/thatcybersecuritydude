@@ -11,14 +11,18 @@
 <h2>📺 Videos</h2>
 
   - [Tutorial: Vulnerability Management Lab](https://github.com/thatcybersecuritydude/LABURL)
-
+  - [Tutorial: SIEM Tutorial | Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=HJkKBxUGBiE)
 
 <h2>🗒️Certifications </h2>
+All Certification Can be Verified Through Resume Links.
+</p>
 
-  - [Google Cybersecurity Certification](https://www.coursera.org/account/accomplishments/ENTERTHECERTHERE)
-  - [CompTIA A+ Certification](https://www.credly.com/badges/433f78aa-6043-489a-944a-7add60a10842/public_url)
-  - [Google IT Support Certifcation](https://www.coursera.org/account/accomplishments/specialization/certificate/78SAFRMF42MC)
-  - [CompTIA Net + Certification](https://credly.com/badges/ENTERTHECERTHERE)
+  - Google Cybersecurity Certification
+  - CompTIA A+ 
+  - Google IT Support Certifcation
+  - CompTIA Network + 
+  - CompTIA Security+
+  - CompTIA Cysa+
 
 
 <h2> 🤳 Connect with me:</h2>
