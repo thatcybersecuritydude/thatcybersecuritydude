@@ -13,8 +13,8 @@
   - [Tutorial: Vulnerability Management Lab](https://github.com/thatcybersecuritydude/LABURL)
   - [Tutorial: SIEM Tutorial | Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=HJkKBxUGBiE)
 
-<h2>🗒️Certifications </h2>
-All Certification Can be Verified Through Resume Links.
+<h2>🗒️Acquired Certifications </h2>
+All Certifications Can be Verified Through Resume Links.
 </p>
 
   - Google Cybersecurity Certification
