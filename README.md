@@ -1,10 +1,10 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/thatcybersecuritydude">Programmer</a>, <a href="https://www.linkedin.com/in/thatcybersecuritydude/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 
   - [Vulnerability Management Lab](https://github.com/thatcybersecuritydude/vulnerability-management-lab-)
-  - [SIEM in Azure with LIVE Attack Data!] (https://github.com/thatcybersecuritydude/AzureSIEMGeoLocation)
+  - [SIEM in Azure with LIVE Attack Data!](https://github.com/thatcybersecuritydude/AzureSIEMGeoLocation)
 
 
 
