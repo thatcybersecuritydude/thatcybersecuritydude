@@ -22,7 +22,7 @@ All Certifications Can be Verified Through Resume Links.
   - Google IT Support Certifcation
   - CompTIA Network + 
   - CompTIA Security+
-  - CompTIA Cysa+
+
 
 
 <h2> 🤳 Connect with me:</h2>
