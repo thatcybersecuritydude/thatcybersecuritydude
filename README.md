@@ -6,6 +6,7 @@
   - [Vulnerability Management Lab](https://github.com/thatcybersecuritydude/vulnerability-management-lab-)
   - [SIEM in Azure with LIVE Attack Data!](https://github.com/thatcybersecuritydude/AzureSIEMGeoLocation)
   - [Creating Internal Network Between Virtual Machines - Kali Linux: Networking Practice](https://github.com/thatcybersecuritydude/CreateInternalNetworkBetweenVMs/tree/main)
+  - [My SOC Automation Home Lab (Part One)](https://github.com/thatcybersecuritydude/SOCAutomationProject)
 
 
 
