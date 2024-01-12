@@ -5,6 +5,7 @@
 
   - [Vulnerability Management Lab](https://github.com/thatcybersecuritydude/vulnerability-management-lab-)
   - [SIEM in Azure with LIVE Attack Data!](https://github.com/thatcybersecuritydude/AzureSIEMGeoLocation)
+  - [Creating Internal Network Between Virtual Machines - Kali Linux: Networking Practice](https://github.com/thatcybersecuritydude/CreateInternalNetworkBetweenVMs/tree/main)
 
 
 
@@ -12,6 +13,7 @@
 
   - [Tutorial: Vulnerability Management Lab](https://github.com/thatcybersecuritydude/LABURL)
   - [Tutorial: SIEM Tutorial | Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=HJkKBxUGBiE)
+  - [Tutorial: Creating Internal Network Between Virtual Machines - Kali Linux: Networking Practice](https://www.youtube.com/watch?v=Zi2vE54___Q)
 
 <h2>🗒️Acquired Certifications </h2>
 All Certifications Can be Verified Through Resume Links.
