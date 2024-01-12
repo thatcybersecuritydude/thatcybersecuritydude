@@ -15,6 +15,7 @@
   - [Tutorial: Vulnerability Management Lab](https://github.com/thatcybersecuritydude/LABURL)
   - [Tutorial: SIEM Tutorial | Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=HJkKBxUGBiE)
   - [Tutorial: Creating Internal Network Between Virtual Machines - Kali Linux: Networking Practice](https://www.youtube.com/watch?v=Zi2vE54___Q)
+  - [Lab: My SOC Automation Home Lab, 1st Part](https://www.youtube.com/watch?v=UJeXcJ59xvY)
 
 <h2>🗒️Acquired Certifications </h2>
 All Certifications Can be Verified Through Resume Links.
