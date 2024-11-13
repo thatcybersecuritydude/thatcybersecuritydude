@@ -26,6 +26,13 @@ All Certifications Can be Verified Through Resume Links.
   - Google IT Support Certifcation
   - CompTIA Network + 
   - CompTIA Security+
+  - CompTIA CySA+
+  - CompTIA Project +
+  - SSCP (Systems Security Certified Practicioner)
+  - Linux Professional Institute Certification (LPI)
+  - Microsoft AZ-900 
+ 
+
 
 
 
