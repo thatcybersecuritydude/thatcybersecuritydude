@@ -20,7 +20,7 @@
   - [Lab: My SOC Automation Home Lab, 1st Part](https://www.youtube.com/watch?v=UJeXcJ59xvY)
 
 <h2>🗒️Acquired Certifications </h2>
-All Certifications Can be Verified Through Links on My [LinkedIn](https://github.com/thatcybersecuritydude">Programmer).
+All Certifications Can be Verified Through Links on My <a href="https://github.com/thatcybersecuritydude">LinkedIn</a>
 </p>
 
   - Google Cybersecurity Certification
