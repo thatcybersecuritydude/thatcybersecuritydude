@@ -27,8 +27,9 @@ All Certifications Can be Verified Through Resume Links.
   - CompTIA Network + 
   - CompTIA Security+
   - CompTIA CySA+
+  - CompTIA Pentest +
   - CompTIA Project +
-  - SSCP (Systems Security Certified Practicioner)
+  - SSCP (Systems Security Certified Practicioner) ISC2
   - Linux Professional Institute Certification (LPI)
   - Microsoft AZ-900 
  
