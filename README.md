@@ -1,39 +1,42 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/thatcybersecuritydude">Programmer</a>, <a href="https://www.linkedin.com/in/thatcybersecuritydude/">Cybersecurity Professional & Aspiring Cloud Security Engineer</a>, <a  href="https://www.youtube.com/watch?v=HJkKBxUGBiE&t=302s">YouTuber</a></h1>
 
 
-
+<div align="center">
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 
-  - [Vulnerability Management Lab](https://github.com/thatcybersecuritydude/vulnerability-management-lab-)
-  - [SIEM in Azure with LIVE Attack Data!](https://github.com/thatcybersecuritydude/AzureSIEMGeoLocation)
-  - [Creating Internal Network Between Virtual Machines - Kali Linux: Networking Practice](https://github.com/thatcybersecuritydude/CreateInternalNetworkBetweenVMs/tree/main)
-  - [My SOC Automation Home Lab (Part One)](https://github.com/thatcybersecuritydude/SOCAutomationProject)
+[Vulnerability Management Lab](https://github.com/thatcybersecuritydude/vulnerability-management-lab-) | 
+[SIEM in Azure with LIVE Attack Data!](https://github.com/thatcybersecuritydude/AzureSIEMGeoLocation) | 
+[Creating Internal Network Between Virtual Machines - Kali Linux: Networking Practice](https://github.com/thatcybersecuritydude/CreateInternalNetworkBetweenVMs/tree/main) | 
+[My SOC Automation Home Lab (Part One)](https://github.com/thatcybersecuritydude/SOCAutomationProject)
 
 
 
 <h2>📺 Videos</h2>
 
-  - [Tutorial: Vulnerability Management Lab](https://github.com/thatcybersecuritydude/LABURL)
-  - [Tutorial: SIEM Tutorial | Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=HJkKBxUGBiE)
-  - [Tutorial: Creating Internal Network Between Virtual Machines - Kali Linux: Networking Practice](https://www.youtube.com/watch?v=Zi2vE54___Q)
-  - [Lab: My SOC Automation Home Lab, 1st Part](https://www.youtube.com/watch?v=UJeXcJ59xvY)
+[Tutorial: Vulnerability Management Lab](https://github.com/thatcybersecuritydude/LABURL) | 
+[Tutorial: SIEM Tutorial | Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=HJkKBxUGBiE) | 
+[Tutorial: Creating Internal Network Between Virtual Machines - Kali Linux: Networking Practice](https://www.youtube.com/watch?v=Zi2vE54___Q) | 
+[Lab: My SOC Automation Home Lab, 1st Part](https://www.youtube.com/watch?v=UJeXcJ59xvY)
+
+<h2>😄 Guided Labs</h2>
+<a href="https://www.youtube.com/watch?v=aabIowop8iE">Cyber KillChain</a>
 
 <h2>🗒️Acquired Certifications </h2>
-All Certifications Can be Verified Through Links on My <a href="https://www.linkedin.com/in/thatcybersecuritydude/">LinkedIn</a>
+<b>All Certifications Can be Verified Through Links on My <a href="https://www.linkedin.com/in/thatcybersecuritydude/">LinkedIn</a></b>
 </p>
 
-  - Google Cybersecurity Certification
-  - CompTIA A+ 
-  - Google IT Support Certifcation
-  - CompTIA Network + 
-  - CompTIA Security+
-  - CompTIA CySA+
-  - CompTIA Pentest +
-  - CompTIA Project +
-  - SSCP (Systems Security Certified Practicioner) ISC2
-  - Linux Professional Institute Certification (LPI)
-  - Microsoft AZ-900 
+- Google Cybersecurity Certification
+- CompTIA A+ 
+- Google IT Support Certifcation
+- CompTIA Network + 
+- CompTIA Security+
+- CompTIA CySA+
+- CompTIA Pentest +
+- CompTIA Project +
+- SSCP (Systems Security Certified Practicioner) ISC2
+- Linux Professional Institute Certification (LPI)
+- Microsoft AZ-900 
  
 
 
@@ -50,6 +53,8 @@ All Certifications Can be Verified Through Links on My <a href="https://www.link
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/thatcybersecuritydude
+
+</div>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
