@@ -3,13 +3,18 @@
 
 
 
- <h2> I'm a Cybersecurity Specialist with a passion for protecting digital landscapes and enhancing organizational security. With certifications like CompTIA Security+, CySA+, and SSCP, I bring expertise in:
+ <h2><i> I'm a Cybersecurity Specialist with a passion for protecting digital landscapes and enhancing organizational security. With certifications like CompTIA Security+, CySA+, and SSCP, I bring expertise in:
 
 - SIEM tools, including Azure Sentinel, for real-time threat detection.
 - Identity & Access Management (IAM) and regulatory compliance (NIST, ISO).
 - Vulnerability management and incident response coordination.
   
-My hands-on experience includes developing tailored cybersecurity strategies, managing cloud-based security solutions, and conducting risk assessments to safeguard critical assets. I'm constantly learning and staying updated on the latest trends and technologies in cybersecurity.
+My hands-on experience includes developing tailored cybersecurity strategies, managing cloud-based security solutions, and conducting risk assessments to safeguard critical assets. I'm constantly learning and staying updated on the latest trends and technologies in cybersecurity.</i>
+
+<div align="center">
+<h2> Featured🚀</h2>
+ 
+ [Elastic SIEM Kali Linux Project: Threat Detection in Action!🛡️](https://github.com/thatcybersecuritydude/ElasticSIEMHomeLab)
 
 </h2>
 <div align="center">
@@ -19,7 +24,8 @@ My hands-on experience includes developing tailored cybersecurity strategies, ma
 [Vulnerability Management Lab](https://github.com/thatcybersecuritydude/vulnerability-management-lab-) | 
 [SIEM in Azure with LIVE Attack Data!](https://github.com/thatcybersecuritydude/AzureSIEMGeoLocation) | 
 [Creating Internal Network Between Virtual Machines - Kali Linux: Networking Practice](https://github.com/thatcybersecuritydude/CreateInternalNetworkBetweenVMs/tree/main) | 
-[My SOC Automation Home Lab (Part One)](https://github.com/thatcybersecuritydude/SOCAutomationProject)
+[My SOC Automation Home Lab (Part One)](https://github.com/thatcybersecuritydude/SOCAutomationProject) | 
+[Elastic SIEM Kali Linux Project: Threat Detection in Action!🛡️](https://github.com/thatcybersecuritydude/ElasticSIEMHomeLab)
 
 
 
@@ -28,7 +34,8 @@ My hands-on experience includes developing tailored cybersecurity strategies, ma
 [Tutorial: Vulnerability Management Lab](https://github.com/thatcybersecuritydude/LABURL) | 
 [Tutorial: SIEM Tutorial | Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=HJkKBxUGBiE) | 
 [Tutorial: Creating Internal Network Between Virtual Machines - Kali Linux: Networking Practice](https://www.youtube.com/watch?v=Zi2vE54___Q) | 
-[Lab: My SOC Automation Home Lab, 1st Part](https://www.youtube.com/watch?v=UJeXcJ59xvY)
+[Lab: My SOC Automation Home Lab, 1st Part](https://www.youtube.com/watch?v=UJeXcJ59xvY) | 
+[Kali Linux, Elastic SIEM Project (Clip)](https://youtu.be/LpZ0KIMPMbU)
 
 <h2>😄 Guided Labs</h2>
 <a href="https://www.youtube.com/watch?v=aabIowop8iE">Cyber KillChain</a>
