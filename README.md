@@ -29,17 +29,6 @@ My hands-on experience includes developing tailored cybersecurity strategies, ma
 
 
 
-<h2>📺 Videos</h2>
-
-[Tutorial: Vulnerability Management Lab](https://github.com/thatcybersecuritydude/LABURL) | 
-[Tutorial: SIEM Tutorial | Azure Sentinel MAP with LIVE CYBER ATTACKS!](https://www.youtube.com/watch?v=HJkKBxUGBiE) | 
-[Tutorial: Creating Internal Network Between Virtual Machines - Kali Linux: Networking Practice](https://www.youtube.com/watch?v=Zi2vE54___Q) | 
-[Lab: My SOC Automation Home Lab, 1st Part](https://www.youtube.com/watch?v=UJeXcJ59xvY) | 
-[Kali Linux, Elastic SIEM Project (Clip)](https://youtu.be/LpZ0KIMPMbU)
-
-<h2>😄 Guided Labs</h2>
-<a href="https://www.youtube.com/watch?v=aabIowop8iE">Cyber KillChain</a>
-
 <h2>🗒️Acquired Certifications </h2>
 <b>All Certifications Can be Verified Through Links on My <a href="https://www.linkedin.com/in/thatcybersecuritydude/">LinkedIn</a></b>
 </p>
