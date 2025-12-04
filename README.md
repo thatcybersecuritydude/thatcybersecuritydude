@@ -1,9 +1,9 @@
-<h1>Hi, I'm Josh!👋<br/><a href="https://github.com/thatcybersecuritydude">Programmer</a>, <a href="https://www.linkedin.com/in/thatcybersecuritydude/">Cybersecurity Professional & Aspiring Cloud Security Engineer</a>, <a  href="https://www.youtube.com/watch?v=HJkKBxUGBiE&t=302s">YouTuber</a></h1>
+<h1>Hi, I'm Josh!👋<br/><a <a href="https://www.linkedin.com/in/thatcybersecuritydude/">Cybersecurity Professional & Aspiring Cloud Security Engineer</a>, <a  href="https://www.youtube.com/watch?v=HJkKBxUGBiE&t=302s">YouTuber</a></h1>
 
 
 
 
- <h2><i> I'm a Cybersecurity Specialist with a passion for protecting digital landscapes and enhancing organizational security. With certifications like CompTIA Security+, CySA+, and SSCP, I bring expertise in:
+ <h2><i> I'm a Cybersecurity Specialist with a passion for protecting digital landscapes and enhancing organizational security. With a Masters Degree in Information Assurance & Cybersecurity & certifications like CompTIA Security+, CySA+, and SSCP, I bring expertise in:
 
 - SIEM tools, including Azure Sentinel, for real-time threat detection.
 - Identity & Access Management (IAM) and regulatory compliance (NIST, ISO).
